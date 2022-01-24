@@ -5,7 +5,7 @@ Sorting through old trading data for Bitcoin
 
 ## Description
 
-This application reads through old trade data for Bitcoin by extracting files: `bitstsamp.csv` and `coinbase.csv` so it find the best arbitrage opportunity if any exists.
+This application reads through old trade data for Bitcoin by extracting files: `bitstamp.csv` and `coinbase.csv` so it find the best arbitrage opportunity if any exists.
 
 ---
 
